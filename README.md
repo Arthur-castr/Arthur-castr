@@ -1,8 +1,10 @@
-## Bem-vindo(a) ao perfil do Arthur-castr 😁
+<div align="center">
+  ## Bem-vindo(a) ao perfil do Arthur-castr 😁
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-castr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-castr&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-castr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-castr&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -21,10 +23,4 @@
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:alunocontemporaneo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arthur-castro-46b675245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arthur-castr/Arthur-castr/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
